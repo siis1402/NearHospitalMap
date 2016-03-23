@@ -4,7 +4,7 @@ var Markdown;
 if (typeof exports === "object" && typeof require === "function") // we're in a CommonJS (e.g. Node.js) module
     Markdown = exports;
 else
-    Markdown = {};
+    Markdown = {}; 
 
 // The following text is included for historical reasons, but should
 // be taken with a pinch of salt; it's not all true anymore.
